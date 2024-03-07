@@ -50,7 +50,7 @@ no.addEventListener("click", myFunction);
         yes.style.display = "none";
         yes1.style.display = "none";
 
-        const newSrc = "error/cenk.png";
+        const newSrc = "error/Cenk.png";
         memeImg.src = newSrc;
         no.style.display = "none";
         text.innerHTML = "Zamanını boşa harcattığın için teşekkkürler. 👍"
